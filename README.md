@@ -13,8 +13,6 @@ I am a Web developer from France.
 
 🌱 I’m currently learning : **Golang | DevOps | Data Engineering** !
 
-📫 How to reach me:   Linkedin Badge
-
 ✨ I hope you have a great day :)
 
 ### 🛠 &nbsp;Languages and Tools :
