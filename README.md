@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Umbrenite+👋;I+am+a+web+developer)](https://git.io/typing-svg)
 <br>
-<img src="https://media3.giphy.com/media/sH7nmiQ7uZMsYviS2i/giphy.gif?cid=ecf05e47e0izfexx60qqlvmdqjuvfeddqpavq5w1m5k1gsar&rid=giphy.gif&ct=g" width="15%">
 
 
 ## Github Stats
@@ -11,7 +10,7 @@ I am a Web developer from France.
 
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-🌱 I’m currently learning : **Golang | DevOps | Data Engineering** !
+🌱 I’m currently learning : **DevOps | Data Engineering** !
 
 ✨ I hope you have a great day :)
 
@@ -26,7 +25,7 @@ I am a Web developer from France.
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
@@ -46,10 +45,11 @@ I am a Web developer from France.
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PgSQL" **alt="PgSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" **alt="Powershell" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>&nbsp;
-<img src="hhttps://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 
 </p>
 <hr>
+<img src="https://media3.giphy.com/media/sH7nmiQ7uZMsYviS2i/giphy.gif?cid=ecf05e47e0izfexx60qqlvmdqjuvfeddqpavq5w1m5k1gsar&rid=giphy.gif&ct=g" width="15%">
 
 # Join me :
 
